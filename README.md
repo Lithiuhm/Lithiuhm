@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 About Me :</h2>
 <p>📝 I am a self-taught person almost completely, I investigate and reach my goal</p>
-<p>💬 Ask me about <strong>Python, MySQL, Mongodb, HTML, CSS, XML, JavascriptXML, Arduino</strong></p>
+<p>💬 Ask me about <strong>Python, MySQL, Mongodb, HTML, CSS, XML, Javascrip, Java, C++, Arduino, Linux, Windows</strong></p>
 <p>📫 How to reach me <strong>Lithiuhm.develops@gmail.com</strong></p>
 <p>🌱 I’m currently learning <strong>Cybersecurity, Java, PHP, Markdown and Kotlin/strong></p>
 <p>📚 Principal Proyect <a href="https://mitsuribot.win/">[Mitsuri Bot]</a>
