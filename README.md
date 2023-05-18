@@ -13,7 +13,7 @@
 <p>📝 I am a self-taught person almost completely, I investigate and reach my goal</p>
 <p>💬 Ask me about <strong>Python, MySQL, Mongodb, HTML, CSS, XML, Javascrip, Java, C++, Arduino, Linux, Windows</strong></p>
 <p>📫 How to reach me <strong>Lithiuhm.develops@gmail.com</strong></p>
-<p>🌱 I’m currently learning <strong>Cybersecurity, Java, PHP, Markdown and Kotlin/strong></p>
+<p>🌱 I’m currently learning <strong>Cybersecurity, Java, PHP, Markdown and Kotlin</strong></p>
 <p>📚 Principal Proyect <a href="https://mitsuribot.win/">[Mitsuri Bot]</a>
 <p>🌐 Website <a href="https://skynext280.win/">[Lithuhm]</a>
 <p>👾 Spanish/English</p>
